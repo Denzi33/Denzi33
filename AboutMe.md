@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Denzi33
+- 👀 I’m interested in C++, Python, Math.
+- 🌱 I’m currently learning Englis
